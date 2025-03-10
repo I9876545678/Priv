@@ -80,7 +80,7 @@ Just open up the html file source code then find what you want to rename and the
 ## Guest Mode
 Allows you to go in the **Guest Mode** View of Google giving you **unrestricted web browsing**.
 
-**This remains unpatched as of 129-133+**
+**This is unpatched on versions 129-132 (patched on 133)**
 
 </br>
 
